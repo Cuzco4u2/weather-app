@@ -2,21 +2,21 @@
   "name": "simple-nodejs-weather-app",
   "version": "1.0.0",
   "description": "Simple Node.js Command Line Weather Application",
-  "main": "index.js",
+  "main": "indexw.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node testw.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+    "url": "git+https://github.com/Cuzco4u2/weather-app.git"
   },
-  "author": "brandon morelli",
+  "author": "Eduardo Moreno",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
+    "url": "https://github.com/Cuzco4u2/weather-app/issues"
   },
-  "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
+  "homepage": "https://github.com/Cuzco4u2/weather-app#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.1.3",
