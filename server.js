@@ -29,7 +29,7 @@ app.post('/', function (req, res) {
         res.render('index', {weather: weatherText, error: null});
 	  }
 		
-      }
+      
     }
   });
 })
